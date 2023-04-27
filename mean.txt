@@ -1,2 +1,7 @@
 what I want to do is learning git well.
+<<<<<<< HEAD
 Creat a new branch is quick & simple. 
+=======
+Creat a new branch is quick AND simple. 
+>>>>>>> featurel
+creat a new branch is quick and simple.
